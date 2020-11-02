@@ -1,7 +1,6 @@
 // Advent of code challenge 2015
 // https://adventofcode.com/2015/day/5
 
-const { log } = require('console');
 const fs = require('fs');
 
 // QUESTION 1
