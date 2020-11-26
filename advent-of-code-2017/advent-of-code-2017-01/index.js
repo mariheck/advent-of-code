@@ -53,6 +53,8 @@ const findCaptcha = inputArray => {
 
 // What is the solution to your new captcha?
 
+// ANSWER: 1166
+
 const findNewCaptcha = inputArray => {
     const stepsForward = inputArray.length / 2;
     let sum = 0;
